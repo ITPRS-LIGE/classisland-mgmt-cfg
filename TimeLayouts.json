@@ -1,0 +1,3389 @@
+{
+  "Name": "",
+  "TimeLayouts": {
+    "377011e7-e767-4915-9913-589ddfebfe18": {
+      "Name": "正常时间表",
+      "Layouts": [
+        {
+          "StartSecond": "2024-09-02T07:15:00+08:00",
+          "EndSecond": "2024-09-02T07:37:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T07:37:00+08:00",
+          "EndSecond": "2024-09-02T07:37:00+08:00",
+          "TimeType": 2,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T07:37:00+08:00",
+          "EndSecond": "2024-09-02T07:40:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 0,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T07:40:00+08:00",
+          "EndSecond": "2024-09-02T08:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 0,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:20:00+08:00",
+          "EndSecond": "2024-09-02T08:28:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:28:00+08:00",
+          "EndSecond": "2024-09-02T09:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T09:10:00+08:00",
+          "EndSecond": "2024-09-02T09:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "大课间",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T09:38:00+08:00",
+          "EndSecond": "2024-09-02T10:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T10:20:00+08:00",
+          "EndSecond": "2024-09-02T10:28:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T10:28:00+08:00",
+          "EndSecond": "2024-09-02T11:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T11:10:00+08:00",
+          "EndSecond": "2024-09-02T11:18:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T11:18:00+08:00",
+          "EndSecond": "2024-09-02T12:04:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": true,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 5,
+              "IsCountdownEnabled": false,
+              "CountdownSeconds": 2400,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 480,
+              "ClassOnPreparingText": "",
+              "ClassOnPreparingMaskText": "下一堂课的下课时间仅供参考，请以实际情况为准。",
+              "ClassOnMaskText": "本堂课下课时间仅供参考，请以实际情况为准",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T12:04:00+08:00",
+          "EndSecond": "2024-09-02T12:50:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "正在吃饭",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 9,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T12:50:00+08:00",
+          "EndSecond": "2024-09-02T13:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "25541646-3e55-4e61-badc-bf9042056894",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 300,
+              "ClassOnPreparingText": "",
+              "ClassOnPreparingMaskText": "即将午休",
+              "ClassOnMaskText": "午休已开始",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 4,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T13:50:00+08:00",
+          "EndSecond": "2024-09-02T14:05:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:05:00+08:00",
+          "EndSecond": "2024-09-02T14:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 0,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:50:00+08:00",
+          "EndSecond": "2024-09-02T14:58:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:58:00+08:00",
+          "EndSecond": "2024-09-02T15:40:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T15:40:00+08:00",
+          "EndSecond": "2024-09-02T15:48:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T15:48:00+08:00",
+          "EndSecond": "2024-09-02T16:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T16:30:00+08:00",
+          "EndSecond": "2024-09-02T16:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T16:38:00+08:00",
+          "EndSecond": "2024-09-02T17:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T17:20:00+08:00",
+          "EndSecond": "2024-09-02T18:10:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T17:50:00+08:00",
+          "EndSecond": "2024-09-02T17:50:00+08:00",
+          "TimeType": 2,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T18:10:00+08:00",
+          "EndSecond": "2024-09-02T18:50:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "晚自习",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 3,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 300,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T18:50:00+08:00",
+          "EndSecond": "2024-09-02T19:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 3,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:30:00+08:00",
+          "EndSecond": "2024-09-02T19:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:38:00+08:00",
+          "EndSecond": "2024-09-02T20:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 3,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:20:00+08:00",
+          "EndSecond": "2024-09-02T20:30:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:30:00+08:00",
+          "EndSecond": "2024-09-02T21:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 3,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:10:00+08:00",
+          "EndSecond": "2024-09-02T21:20:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:20:00+08:00",
+          "EndSecond": "2024-09-02T22:00:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 5,
+              "IsCountdownEnabled": false,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 2400,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 240,
+              "ClassOnPreparingText": "",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 0,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 300,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "f4202ef0-7077-4518-bd45-f533501b2585": {
+      "Name": "周六时间表",
+      "Layouts": [
+        {
+          "StartSecond": "2024-09-07T07:18:00+08:00",
+          "EndSecond": "2024-09-07T08:00:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "今天也不是刘老师刚好进教室的一天 来了的话当我没说",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T08:00:00+08:00",
+          "EndSecond": "2024-09-07T08:08:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T08:08:00+08:00",
+          "EndSecond": "2024-09-07T08:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T08:50:00+08:00",
+          "EndSecond": "2024-09-07T08:58:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T08:58:00+08:00",
+          "EndSecond": "2024-09-07T09:40:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T09:40:00+08:00",
+          "EndSecond": "2024-09-07T09:48:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T09:48:00+08:00",
+          "EndSecond": "2024-09-07T10:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T10:30:00+08:00",
+          "EndSecond": "2024-09-07T10:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T10:38:00+08:00",
+          "EndSecond": "2024-09-07T11:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T11:20:00+08:00",
+          "EndSecond": "2024-09-07T11:28:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-07T11:28:00+08:00",
+          "EndSecond": "2024-09-07T12:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 0,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "416ea53f-4038-4f8e-be5f-0ed8f58a1cec": {
+      "Name": "周一时间表",
+      "Layouts": [
+        {
+          "StartSecond": "2024-09-02T07:18:00+08:00",
+          "EndSecond": "2024-09-02T08:00:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:00:00+08:00",
+          "EndSecond": "2024-09-02T08:08:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 0,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:08:00+08:00",
+          "EndSecond": "2024-09-02T08:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:50:00+08:00",
+          "EndSecond": "2024-09-02T08:58:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T08:58:00+08:00",
+          "EndSecond": "2024-09-02T09:40:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T09:40:00+08:00",
+          "EndSecond": "2024-09-02T10:08:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "升旗",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T10:08:00+08:00",
+          "EndSecond": "2024-09-02T10:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T10:30:00+08:00",
+          "EndSecond": "2024-09-02T10:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T10:38:00+08:00",
+          "EndSecond": "2024-09-02T11:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T11:20:00+08:00",
+          "EndSecond": "2024-09-02T11:28:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T11:28:00+08:00",
+          "EndSecond": "2024-09-02T12:14:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "下一堂课下课时间仅供参考，请以实际铃声为准。",
+              "ClassOnPreparingMaskText": "",
+              "ClassOnMaskText": "本堂课下课时间仅供参考，请以实际铃声为准。",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": false,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 10,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T12:14:00+08:00",
+          "EndSecond": "2024-09-02T12:48:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "吃饭",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T12:48:00+08:00",
+          "EndSecond": "2024-09-02T13:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "25541646-3e55-4e61-badc-bf9042056894",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 120,
+              "ClassOnPreparingText": "准备午休，请回到座位并保持安静。",
+              "ClassOnPreparingMaskText": "即将午休",
+              "ClassOnMaskText": "开始午休",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 1,
+              "ForecastShowMode": 1,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T13:50:00+08:00",
+          "EndSecond": "2024-09-02T14:04:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:04:00+08:00",
+          "EndSecond": "2024-09-02T14:50:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:50:00+08:00",
+          "EndSecond": "2024-09-02T14:58:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T14:58:00+08:00",
+          "EndSecond": "2024-09-02T15:40:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T15:40:00+08:00",
+          "EndSecond": "2024-09-02T15:48:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T15:48:00+08:00",
+          "EndSecond": "2024-09-02T16:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T16:30:00+08:00",
+          "EndSecond": "2024-09-02T16:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T16:38:00+08:00",
+          "EndSecond": "2024-09-02T17:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 5,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 2400,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T17:20:00+08:00",
+          "EndSecond": "2024-09-02T17:20:00+08:00",
+          "TimeType": 2,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T17:20:00+08:00",
+          "EndSecond": "2024-09-02T18:45:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T18:45:00+08:00",
+          "EndSecond": "2024-09-02T19:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:30:00+08:00",
+          "EndSecond": "2024-09-02T19:38:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:38:00+08:00",
+          "EndSecond": "2024-09-02T20:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:20:00+08:00",
+          "EndSecond": "2024-09-02T20:30:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:30:00+08:00",
+          "EndSecond": "2024-09-02T21:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:10:00+08:00",
+          "EndSecond": "2024-09-02T21:20:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:20:00+08:00",
+          "EndSecond": "2024-09-02T22:00:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 300,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "4d838add-e738-4aad-9a7c-bf94ff94bc9f": {
+      "Name": "周日时间表",
+      "Layouts": [
+        {
+          "StartSecond": "2024-09-02T18:45:00+08:00",
+          "EndSecond": "2024-09-02T19:30:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:30:00+08:00",
+          "EndSecond": "2024-09-02T19:40:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T19:40:00+08:00",
+          "EndSecond": "2024-09-02T20:20:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 300,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:20:00+08:00",
+          "EndSecond": "2024-09-02T20:30:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T20:30:00+08:00",
+          "EndSecond": "2024-09-02T21:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:10:00+08:00",
+          "EndSecond": "2024-09-02T21:20:00+08:00",
+          "TimeType": 1,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        },
+        {
+          "StartSecond": "2024-09-02T21:20:00+08:00",
+          "EndSecond": "2024-09-02T22:00:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 300,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    },
+    "5dfc8532-159c-4508-a00f-8df198fec62d": {
+      "Name": "周六临时时间表",
+      "Layouts": [
+        {
+          "StartSecond": "2025-03-01T10:35:00+08:00",
+          "EndSecond": "2025-03-01T12:10:00+08:00",
+          "TimeType": 0,
+          "IsHideDefault": false,
+          "DefaultClassId": "",
+          "BreakName": "",
+          "ActionSet": null,
+          "AttachedObjects": {
+            "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+              "IsClassOnNotificationEnabled": true,
+              "IsClassOnPreparingNotificationEnabled": true,
+              "IsClassOffNotificationEnabled": true,
+              "ClassPreparingDeltaTime": 60,
+              "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+              "ClassOnPreparingMaskText": "即将上课",
+              "ClassOnMaskText": "上课",
+              "ClassOffMaskText": "课间休息",
+              "ClassOffOverlayText": "",
+              "IsAttachSettingsEnabled": false,
+              "IsActive": false
+            },
+            "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+              "IsAttachSettingsEnabled": false,
+              "ShowExtraInfoOnTimePoint": true,
+              "ExtraInfoType": 0,
+              "IsCountdownEnabled": true,
+              "CountdownSeconds": 60,
+              "ExtraInfo4ShowSecondsSeconds": 0,
+              "ScheduleSpacing": 1,
+              "ShowCurrentLessonOnlyOnClass": false,
+              "IsNonExactCountdownEnabled": false,
+              "IsActive": false
+            },
+            "7625de96-38aa-4b71-b478-3f156dd9458d": {
+              "AlertShowMode": 2,
+              "ForecastShowMode": 2,
+              "IsAttachSettingsEnabled": true,
+              "IsActive": false
+            }
+          },
+          "IsActive": false
+        }
+      ],
+      "AttachedObjects": {
+        "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+          "IsEnabled": true,
+          "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+          "IsClassOnNotificationEnabled": true,
+          "IsClassOnPreparingNotificationEnabled": true,
+          "IsClassOffNotificationEnabled": true,
+          "ClassPreparingDeltaTime": 60,
+          "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+          "ClassOnPreparingMaskText": "即将上课",
+          "ClassOnMaskText": "上课",
+          "ClassOffMaskText": "课间休息",
+          "ClassOffOverlayText": "",
+          "IsAttachSettingsEnabled": false,
+          "IsActive": false
+        },
+        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+          "IsAttachSettingsEnabled": false,
+          "ShowExtraInfoOnTimePoint": true,
+          "ExtraInfoType": 0,
+          "IsCountdownEnabled": true,
+          "CountdownSeconds": 60,
+          "ExtraInfo4ShowSecondsSeconds": 0,
+          "ScheduleSpacing": 1,
+          "ShowCurrentLessonOnlyOnClass": false,
+          "IsNonExactCountdownEnabled": false,
+          "IsActive": false
+        }
+      },
+      "IsActive": false
+    }
+  },
+	"ClassPlans": {},
+	"Subjects": {}
+}

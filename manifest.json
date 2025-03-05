@@ -1,4 +1,14 @@
 {
         "ServerKind": 0,
-        "OrganizationName": "成都市立格实验学校高中部"
+        "OrganizationName": "成都市立格实验学校高中部 集控 (测试)"
+        "TimeLayoutSource": 
+        {
+                "Value": "https://raw.githubusercontent.com/ITPRS-LIGE/classisland-mgmt-cfg/refs/heads/main/TimeLayouts.json",
+                "Version": 1
+        },
+        "SubjectsSource": 
+        {
+                "Value": "https://raw.githubusercontent.com/ITPRS-LIGE/classisland-mgmt-cfg/refs/heads/main/subjects.json",
+                "Version": 1
+        }
 }
